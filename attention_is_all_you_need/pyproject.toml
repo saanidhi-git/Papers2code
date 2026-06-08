@@ -1,0 +1,5 @@
+[project]
+name = "attention_is_all_you_need"
+version = "0.1.0"
+description = "Transformers from scratch"
+dependencies = ["torch", "datasets", "tokenizers", "tqdm", "tensorboard"]
